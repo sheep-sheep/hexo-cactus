@@ -1,0 +1,12 @@
+[
+    {
+       "name":"Flaskagram",
+       "url":"https://hexo.io/",
+       "desc":"A fast, simple Instagram like Flask App"
+    },
+    {
+       "name":"Bitcoin Price Visualizer",
+       "url":"http://fontawesome.io/",
+       "desc":"A visualization project for bitcoin price to pratice JS"
+    }
+]
